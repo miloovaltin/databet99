@@ -1,16 +1,16 @@
 {
-"name": "databet99",
-"theme": "databet99",
-"version": "9.2.8",
-"description": "databet99 ทางเข้าหลักเว็บสล็อตเว็บตรง ไม่ผ่านเอเย่นต์ แจกเงินเครดิตฟรี",
-"keywords": [
-"databet99",
-"databet99 เครดิตฟรี",
-"databet99 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/databet99",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "databet99",
+  "theme": "databet99",
+  "version": "9.3.0",
+  "description": "databet99 ทางเข้าหลักเว็บสล็อตเว็บตรง ไม่ผ่านเอเย่นต์ แจกเงินเครดิตฟรี",
+  "keywords": [
+    "databet99",
+    "databet99 เครดิตฟรี",
+    "databet99 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/databet99",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
